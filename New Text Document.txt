@@ -1,8 +1,0 @@
-<html>
-	<head>
-		<Title>Faszomat már.</Title>
-	</head>
-	<body>
-		<h1>Miért nem akarsz már működni?!
-	</body>
-</html>
